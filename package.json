@@ -43,5 +43,6 @@
     "terser-webpack-plugin": "^4.2.3",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
-  }
+  },
+  "bundleDependencies": true
 }

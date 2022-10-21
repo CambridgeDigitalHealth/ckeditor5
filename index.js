@@ -1,7 +1,3 @@
-/**
- * @license Copyright (c) 2014-2021, CKSource - Frederico Knabben. All rights reserved.
- * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
- */
 import DecoupledDocumentEditor from '@ckeditor/ckeditor5-editor-decoupled/src/decouplededitor.js';
 import Alignment from '@ckeditor/ckeditor5-alignment/src/alignment.js';
 import Autoformat from '@ckeditor/ckeditor5-autoformat/src/autoformat.js';
