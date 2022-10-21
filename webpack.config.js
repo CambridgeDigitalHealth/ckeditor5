@@ -17,7 +17,7 @@ module.exports = {
   devtool: 'source-map',
   performance: { hints: false },
 
-  entry: path.resolve(__dirname, 'src', 'index.js'),
+  entry: path.resolve(__dirname, 'index.js'),
 
   output: {
     // The name under which the editor will be exported.
@@ -25,7 +25,7 @@ module.exports = {
 
     path: path.resolve(__dirname, 'dist'),
     filename: 'ckeditor.js',
-    libraryTarget: 'module',
+    libraryTarget: 'umd',
     libraryExport: 'default',
   },
 
