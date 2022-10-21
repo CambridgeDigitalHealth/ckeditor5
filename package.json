@@ -11,7 +11,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@ckeditor/ckeditor5-alignment": "^35.2.1",
     "@ckeditor/ckeditor5-autoformat": "^35.2.1",
     "@ckeditor/ckeditor5-basic-styles": "^35.2.1",
@@ -33,7 +33,9 @@
     "@ckeditor/ckeditor5-table": "^35.2.1",
     "@ckeditor/ckeditor5-theme-lark": "^35.2.1",
     "@ckeditor/ckeditor5-typing": "^35.2.1",
-    "@ckeditor/ckeditor5-upload": "^35.2.1",
+    "@ckeditor/ckeditor5-upload": "^35.2.1"
+  },
+  "devDependencies": {
     "css-loader": "^5.2.7",
     "postcss-loader": "^4.3.0",
     "raw-loader": "^4.0.2",
